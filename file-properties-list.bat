@@ -1,0 +1,1 @@
+wmic datafile where Name="F:\\anyfile.txt" list /format:list
